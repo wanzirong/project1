@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("s2 cmd main")
+	fmt.Println("s2 cmd main 2222")
 }
